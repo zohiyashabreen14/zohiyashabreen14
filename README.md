@@ -1,6 +1,8 @@
 # Hello👋, I'm ZOHIYA SHABREEN
 **A passionate Data Scientist || Computer Science Engineer**
 
+<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="40%" alt="Zohiya's Data Science GIF">
+
 - 🌱 **I’m currently learning:** Scrum, Agile
 - 📫 **How to reach me:** zohiyashabreen@gmail.com
 - 📄 **Know about my experiences:** "C:\Users\ZOHIYA\Desktop\ZOHIYASHABREEN_resume.pdf"
