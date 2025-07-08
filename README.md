@@ -1,5 +1,5 @@
 # Hello👋, I'm ZOHIYA SHABREEN
-**A passionate Data Scientist || Computer Science Engineer**
+**A passionate Data Scientist || Computer Science Engineering Graduate**
 
 - 🌱 **I’m currently learning:** Scrum, Agile
 - 📫 **How to reach me:** zohiyashabreen@gmail.com
