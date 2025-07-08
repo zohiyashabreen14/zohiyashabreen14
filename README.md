@@ -5,7 +5,7 @@
 - 📫 **How to reach me:** zohiyashabreen@gmail.com
 - 📄 **Know about my experiences:** "C:\Users\ZOHIYA\Desktop\ZOHIYASHABREEN_resume.pdf"
 - ⚡ **Fun fact:** I debug in my dreams sometimes.
-<img src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" width="40%" alt="Zohiya's Data Science GIF">
+<img src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" width="45%" alt="Zohiya's Data Science GIF">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zohiya-shabreen-abc140219280425) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohiyashabreen@gmail.com) 
